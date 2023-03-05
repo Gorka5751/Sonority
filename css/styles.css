@@ -1,0 +1,17 @@
+
+
+body {
+    
+    background: linear-gradient(45deg, #F9F54B, #8BF5FA);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+a { color: inherit; } 
+
+
+
+.nav-link{
+    font-size: 20px;
+}
