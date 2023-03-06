@@ -41,7 +41,11 @@ a { color: inherit; }
     margin-right: auto;
     width: 50%;
   }
-
-
+#testimonials{
+    margin-bottom: 0px;
+}
+#press{
+    background-color: white;
+}
 
 
