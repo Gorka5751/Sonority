@@ -15,18 +15,33 @@ a { color: inherit; }
 .nav-link{
     font-size: 18px;
 }
-
-.w-100 {
-    width: 700px !important;
-    height: 500px;
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.press-image{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
     
-  }
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+    margin-top: 5px;
+}
 
-  .center {
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
   }
 
-  
+
+
+
