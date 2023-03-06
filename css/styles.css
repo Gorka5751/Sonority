@@ -13,5 +13,20 @@ a { color: inherit; }
 
 
 .nav-link{
-    font-size: 20px;
+    font-size: 18px;
 }
+
+.w-100 {
+    width: 700px !important;
+    height: 500px;
+    
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  
