@@ -59,6 +59,7 @@ a {
 }
 #certificado{
     font-weight: bold;
+    padding-top: 5%;
 }
 #Clientes{
     font-weight: bold;
@@ -73,4 +74,28 @@ a {
 }
 .featureImages{
     padding-bottom: 5%;
+}
+#cta{
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 25px;
+    
+}
+.grayscale {
+    padding:1px;
+   border:1px solid #021a40;
+  }
+  .fire-logo{
+    padding-right: 10px;
+}
+.footer-text{
+    font-family: "Montserrat" sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+}
+.footer-icons{
+    margin: 10px;
+}
+.copyright{
+    padding-right: 7%;
 }
