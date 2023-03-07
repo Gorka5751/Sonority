@@ -8,7 +8,9 @@ body {
 }
 
 
-a { color: inherit; } 
+a { 
+    color: inherit;
+ } 
 
 
 
@@ -41,6 +43,11 @@ a { color: inherit; }
     margin-right: auto;
     width: 50%;
   }
+.center-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 #testimonials{
     margin-bottom: 0px;
 }
@@ -50,5 +57,20 @@ a { color: inherit; }
 .hero{
     background-color: white;
 }
-
-
+#certificado{
+    font-weight: bold;
+}
+#Clientes{
+    font-weight: bold;
+    font-size: 30px;
+}
+.prioridades{
+    padding-left: 7%;
+    padding-bottom: 5%;
+}
+.features{
+    text-align: center;
+}
+.featureImages{
+    padding-bottom: 5%;
+}
