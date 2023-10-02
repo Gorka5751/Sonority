@@ -1,7 +1,7 @@
 {
    "request": [
        {
-           "id": 0001,
+           "id": 1,
            "titulo": "Puerta Inteligente",
            "imagen": "url_de_imagen_principal",
            "descripcion": "Puerta inteligente con Wifi y NFC.",
@@ -13,7 +13,7 @@
            "video": "url_de_video"
        },
        {
-           "id": 0002,
+           "id": 2,
            "titulo": "Puerta Inteligente2",
            "imagen": "url_de_imagen_principal",
            "descripcion": "Puerta inteligente con Wifi y NFC.",
