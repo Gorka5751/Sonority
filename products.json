@@ -3,7 +3,7 @@
        {
            "id": 1,
            "titulo": "Puerta Inteligente",
-           "imagen": "url_de_imagen_principal",
+           "imagen": "https://www.sonority.one/domoticDoor.png",
            "descripcion": "Puerta inteligente con Wifi y NFC.",
            "color": "CardColor",
            "precio": 500,
@@ -16,7 +16,7 @@
        {
            "id": 2,
            "titulo": "Puerta Inteligente2",
-           "imagen": "url_de_imagen_principal",
+           "imagen": "https://www.sonority.one/domoticDoor.png",
            "descripcion": "Puerta inteligente con Wifi y NFC.",
            "color": "CardColor",
            "precio": 500,
@@ -29,7 +29,7 @@
        {
            "id": 3,
            "titulo": "Bombilla inteligente",
-           "imagen": "url_de_imagen_principal",
+           "imagen": "https://www.sonority.one/light.png",
            "descripcion": "Bombilla con wifi que se enciende a distancia",
            "color": "SubCardColor",
            "precio": 500,
@@ -42,7 +42,7 @@
        {
            "id": 4,
            "titulo": "enchufe inteligente",
-           "imagen": "url_de_imagen_principal",
+           "imagen": "https://www.sonority.one/light.png",
            "descripcion": "enchufe con wifi que se enciende a distancia",
            "color": "SubCardColor",
            "precio": 500,
