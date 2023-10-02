@@ -1,6 +1,6 @@
 {
    "request": {
-      "id": "0001",
+      "id": 0001,
       "titulo": "Puerta Inteligente",
       "imagen": "url_de_imagen_principal",
       "descripcion": "Puerta inteligente con Wifi y NFC.",
