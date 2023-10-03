@@ -27,7 +27,7 @@
            "mainCard": true
        },
       {
-           "id": 2,
+           "id": 3,
            "titulo": "Puerta Inteligente3",
            "imagen": "https://www.sonority.one/domoticDoor.png",
            "descripcion": "Puerta inteligente con Wifi y NFC.",
@@ -40,7 +40,7 @@
            "mainCard": true
        },
        {
-           "id": 3,
+           "id": 4,
            "titulo": "Bombilla inteligente",
            "imagen": "https://www.sonority.one/light.png",
            "descripcion": "Bombilla con wifi que se enciende a distancia",
@@ -53,7 +53,7 @@
            "mainCard": false
        },
        {
-           "id": 4,
+           "id": 5,
            "titulo": "enchufe inteligente",
            "imagen": "https://www.sonority.one/light.png",
            "descripcion": "enchufe con wifi que se enciende a distancia",
