@@ -2,7 +2,7 @@
    "request": [
        {
            "id": 1,
-           "titulo": "Puerta Inteligente",
+           "titulo": "Puerta Inteligente1",
            "imagen": "https://www.sonority.one/domoticDoor.png",
            "descripcion": "Puerta inteligente con Wifi y NFC.",
            "color": "CardColor",
